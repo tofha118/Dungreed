@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1d1b68b01388174b88d6cc340683f81, type: 3}
+  m_Name: "\uC0B0\uD0C4\uCD1D"
+  m_EditorClassIdentifier: 
+  ItemName: "\uC0B0\uD0C4\uCD1D"
+  itemType: 0
+  item_Detailed_Types: 0
+  itemLevel: 0
+  ItemPowerString: 28~35
+  ItemPower: 28
+  Itemdistinct: "\uB538\uC774 \uC788\uB294 \uC544\uBC84\uC9C0\uB4E4\uC774 \uC0AC\uB791\uD558\uB294
+    \uCD1D"
+  ItemAbilityExist: 0
+  ItemAbility: 
+  speed_of_attack: 0.66
+  ItemImege: {fileID: 21300000, guid: 56c831f2d34b87c498fbeacf563489d2, type: 3}
+  itemCode: 3
+  itemPrice: 1500

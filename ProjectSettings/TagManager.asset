@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moveable
+  - Slot
+  - wall
+  - Sword_Floor
+  - Boss
+  - Floor
+  - Cha
+  - EnemyAttack
+  - Enemy
+  - Player_Attack
+  - Boss_Attack
+  - Coin
+  - Door
+  - Tresure
+  - SkelDog_AttackTag
+  - Arsha_AttackTag
+  - AbyssGuardian_AttackTag
+  - MainCanvas
+  - SkelDog
+  - Arsha
+  - AbyssGuardian
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Moveable
+  - Wall
+  - BackGround
+  - Spire
+  - Player
+  - SpawnPoint
+  - Weapon
+  - Boss
+  - Enemy
+  - EnemyAttack
+  - Door
+  - 
+  - 
+  - Boss_Other
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

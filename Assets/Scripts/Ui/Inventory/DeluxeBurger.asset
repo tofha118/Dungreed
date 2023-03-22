@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e007b40e7b4feb74cbbf472aa5c25472, type: 3}
+  m_Name: DeluxeBurger
+  m_EditorClassIdentifier: 
+  foodName: "\uB514\uB7ED\uC2A4 \uBC84\uAC70"
+  foodCode: 7
+  FoodTMI: "\uB9DB\uC788\uB294 \uAC83\uB9CC \uC794\uB729 \uB123\uC5C8\uC73C\uB2C8
+    \uBD84\uBA85\uD788 \uB9DB\uC788\uC744 \uAC70\uC5D0\uC694."
+  Price: 3175
+  Satiety: 40
+  FoodImage: {fileID: 21300000, guid: 3b5bdb783a2f6b042beb555e6141a150, type: 3}
+  effect: 0
+  Effect_MinValue: 3
+  effect_String: "\uACF5\uACA9\uC18D\uB3C4"

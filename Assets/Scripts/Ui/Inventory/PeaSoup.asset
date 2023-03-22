@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e007b40e7b4feb74cbbf472aa5c25472, type: 3}
+  m_Name: PeaSoup
+  m_EditorClassIdentifier: 
+  foodName: "\uC644\uB450\uCF69 \uC218\uD504"
+  foodCode: 6
+  FoodTMI: "\uC6B0\uC131\uB3C4 \uC5F4\uC131\uB3C4 \uB9DB\uC788\uC5B4\uC694."
+  Price: 2452
+  Satiety: 40
+  FoodImage: {fileID: 21300000, guid: 98294659d44e5054d93f1c7bc7970ecd, type: 3}
+  effect: 3
+  Effect_MinValue: 10
+  effect_String: "\uCD5C\uB300 \uCCB4\uB825"

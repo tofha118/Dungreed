@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e007b40e7b4feb74cbbf472aa5c25472, type: 3}
+  m_Name: OnionSoup
+  m_EditorClassIdentifier: 
+  foodName: "\uC591\uD30C \uC218\uD504"
+  foodCode: 4
+  FoodTMI: "\uC591\uD30C\uAC00 \uB9F5\uACE0 \uC790\uADF9\uC801\uC774\uB77C\uB294
+    \uC0DD\uAC01\uC740 \uC774 \uC218\uD504\uB97C \uBA39\uC73C\uBA74 \uBC14\uB00C\uAC8C
+    \uB418\uC9C0\uC694."
+  Price: 776
+  Satiety: 40
+  FoodImage: {fileID: 21300000, guid: 0795b18e75472f34484182dfc343683e, type: 3}
+  effect: 4
+  Effect_MinValue: 5
+  effect_String: "\uBC29\uC5B4\uB825"
